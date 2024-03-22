@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1711128126 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\labevaluacion_jv\src\cliente.cpp
+	"Cliente.h"
+
+1711127211 c:\users\armando\desktop\2024 program2\ejercicios_josevega\labevaluacion_jv\include\cliente.h
+	<string.h>
+	<iostream>
+
+1711127415 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\labevaluacion_jv\src\fecha.cpp
+	"Fecha.h"
+
+1711126269 c:\users\armando\desktop\2024 program2\ejercicios_josevega\labevaluacion_jv\include\fecha.h
+	<iostream>
+
+1711127560 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\labevaluacion_jv\src\prestamo.cpp
+	"Prestamo.h"
+
+1711127141 c:\users\armando\desktop\2024 program2\ejercicios_josevega\labevaluacion_jv\include\prestamo.h
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+	<iostream>
+
+1711126763 c:\users\armando\desktop\2024 program2\ejercicios_josevega\labevaluacion_jv\include\pago.h
+	"Fecha.h"
+	<iostream>
+
+1711130004 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\labevaluacion_jv\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Fecha.h"
+	"Prestamo.h"
+	"Pago.h"
+
+1711127539 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\labevaluacion_jv\src\pago.cpp
+	"Pago.h"
+
