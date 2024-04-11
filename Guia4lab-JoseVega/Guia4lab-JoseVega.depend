@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1712876280 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia4lab-josevega\main.cpp
+	<iostream>
+	"OSWindows.h"
+	"OSLinux.h"
+	"OSOSx.h"
+	<stdlib.h>
+
+1712876280 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia4lab-josevega\src\oslinux.cpp
+	"OSLinux.h"
+
+1712875647 c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia4lab-josevega\include\oslinux.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712876348 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia4lab-josevega\src\ososx.cpp
+	"OSOSx.h"
+
+1712875970 c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia4lab-josevega\include\ososx.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712875601 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia4lab-josevega\src\oswindows.cpp
+	"OSWindows.h"
+
+1712875583 c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia4lab-josevega\include\oswindows.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712875541 c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia4lab-josevega\include\iapariencia.h
+
+1712873767 source:c:\users\armando\desktop\2024 program2\ejercicios_josevega\guia4lab-josevega\src\iapariencia.cpp
+	"iApariencia.h"
+
