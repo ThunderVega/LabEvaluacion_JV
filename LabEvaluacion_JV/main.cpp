@@ -4,7 +4,7 @@
 #include "Fecha.h"
 #include "Prestamo.h"
 #include "Pago.h"
-#define TAM 1
+#define TAM 3
 using namespace std;
 
 int Menu()
@@ -169,15 +169,15 @@ void verDetallesP(Prestamo *prest)
     else
     {
         Pago **lstP = prest->getLstPago();
-        cout<<"\n=============================================";
+        cout<<"\n=============================================\n";
         cout<<"No\tFecha\t\tMonto\n";
-        cout<<"\n=============================================";
+        cout<<"=============================================\n";
 
         for(int i = 0; i<prest->getContadorPagos(); i++)
         {
             cout<<(i+1)<<"\t";
             lstP[i]->getFechaPago()->MostrarFecha();
-            cout<<"\t"<<lstP[i]->getMontoPago()<<endl;
+            cout<<"\t\t"<<lstP[i]->getMontoPago()<<endl;
         }
 
         cout<<"\n=============================================\n";
